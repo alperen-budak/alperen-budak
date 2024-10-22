@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am a computer engineering student at ITU 👋
 
 <!--
 **alperen-budak/alperen-budak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
